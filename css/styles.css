@@ -17,6 +17,8 @@
     --text-white: #ffffff;
     --text-black: #000000; 
     --shadow-white: #F5F4FA; 
+    --shadow-blue: #188CE8;
+    --shadow-grey: #2F303A;
 }
 
 body {
@@ -84,7 +86,7 @@ ul {
 }
 
 .site-sec {
-    background-color: #2F303A;
+    background-color: var(--shadow-grey) ;
 }
 
 .site-head {
@@ -110,7 +112,7 @@ ul {
 
 .site-button:hover,
 .site-button:focus {
-    background-color: #188CE8 ;
+    background-color: var(--shadow-blue);
 }
 
 
@@ -178,7 +180,7 @@ ul {
 }
 
 .foot {
-    background-color: #2F303A;
+    background-color: var(--shadow-grey);
 
 }
 
