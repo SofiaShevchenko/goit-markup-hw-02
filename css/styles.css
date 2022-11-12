@@ -106,7 +106,7 @@ ul {
     color: var(--text-white);
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.1;
+    line-height: 1.8;
     border: none;
 }
 
@@ -131,6 +131,7 @@ ul {
 .info-text {
     color: var(--title-text-color);
     font-family: 'Roboto';
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -197,7 +198,7 @@ ul {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.1;
+    line-height: 1.7;
     letter-spacing: 0.03em;
 }
 
@@ -205,7 +206,7 @@ ul {
     text-decoration: none;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1.1;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -260,7 +261,7 @@ ul {
     text-decoration: none;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.8;
     letter-spacing: 0.03em;
     color: var(--title-text-color);
 }
